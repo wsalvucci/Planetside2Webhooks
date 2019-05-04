@@ -7,6 +7,7 @@ const app = express();
 const WebSocket = require('ws');
 const mysql = require('mysql');
 const apiRequest = require('request');
+const http = require('http');
 
 var sqlConnection = mysql.createConnection({
   host: process.env.DATABASE_HOST,
@@ -20,30 +21,44 @@ sqlConnection.connect(function(err) {
   console.log('Connected to database');
 })
 
-const url = 'wss://push.planetside2.com/streaming?environment=ps2&service-id=s:sealith';
-const deathsConnection = new WebSocket(url);
+const url = 'wss://push.planetside2.com/streaming?environment=ps2&service-id=s:' + process.env.WEBHOOK_ID;
+const logoutsConnection = new WebSocket(url);
 
-deathsConnection.onopen = () => {
-  deathsConnection.send('{"service":"event","action":"subscribe","characters":["all"],"eventNames":["Death"],"worlds":["all"],"logicalAndCharactersWithWorlds":true}');
+logoutsConnection.onopen = () => {
+  logoutsConnection.send('{"service":"event","action":"subscribe","worlds":["all"],"eventNames":["PlayerLogout"]}');
 }
 
-deathsConnection.onerror = error => {
+logoutsConnection.onerror = error => {
   console.log('WebSocket error: ${error}');
 }
 
-deathsConnection.onmessage = e => {
+logoutsConnection.onmessage = e => {
   var eventData = JSON.parse(e.data);
-  //console.log("Kill");
   if(eventData['payload'] != undefined) {
-    var headshot = eventData['payload']['is_headshot'] == 1 ? 'true' : 'false';
-    //console.log(eventData['payload']['attacker_character_id'] + " killed " + eventData['payload']['character_id'] + ". Headshot: " + headshot);
+    var sql = 'select * from player where player_id = ' + eventData['payload']['character_id'];
+    sqlConnection.query(sql, function(err, result) {
+      if (err) throw err;
+      if(result['last_login_time'] == 0) {
+        console.log("New player logged out!");
+        console.log(Date.now() + ' seconds played');
+        apiRequest('http://census.daybreakgames.com/s:sealith/get/ps2:v2/character/?character_id=' + eventData['payload']['character_id'], function(error, response, body) {
+          var playerData = JSON.parse(body);
+          sql = 'insert into new_char_play_time (player_id, logout, seconds_played) values (' + eventData['playload']['character_id'] + ', ' + playerData['character_list'][0]['minutes_played'] + ')';
+          sqlConnection.query(sql, function(err, result) {
+            if (err) throw err
+          });
+        })
+
+      }
+    })
+    //console.log("Player logout");
   }
 }
 
 const loginsConnection = new WebSocket(url);
 
 loginsConnection.onopen = () => {
-  loginsConnection.send('{"service":"event","action":"subscribe","worlds":["all"],"eventNames":["PlayerLogin","PlayerLogout"]}');
+  loginsConnection.send('{"service":"event","action":"subscribe","worlds":["all"],"eventNames":["PlayerLogin"]}');
 }
 
 loginsConnection.onerror = error => {
@@ -62,6 +77,10 @@ loginsConnection.onmessage = e => {
           
           if (playerData['returned'] == 1) {
             var char = playerData['character_list'][0];
+            if (char['times']['last_login'] == 0) {
+              console.log("New Player! " + eventData['payload']['character_id']);
+              console.log(result.length);
+            }
             var lastLoginDate = (Math.floor(char['times']['last_login'] / 86400));
             var curDateNum = Math.floor(Math.floor(Date.now() / 1000) / 86400) 
             if (curDateNum != lastLoginDate) {
@@ -79,7 +98,6 @@ loginsConnection.onmessage = e => {
             if (result.length == 0) {
               //console.log('New player');
               var newPlayerFields = 'player_id,player_name,player_name_lower,faction_id,head_id,title_id,creation_time,last_save_time,last_login_time,login_count,minutes_played,earned_certs,gifted_certs,spent_certs,available_certs,percent_to_next_cert,battle_rank,percent_to_next_rank,profile_id,daily_ribbon_count,prestige_level';
-
               var newPlayerValues = char['character_id'] +
                   ',"' + char['name']['first'] + '"' +
                   ',"' + char['name']['first_lower']  + '"' +
@@ -129,6 +147,9 @@ loginsConnection.onmessage = e => {
                   ' WHERE player_id = ' + char['character_id'];
               //console.log(returnPlayerSql);
             }
+          } else {
+            //console.log(eventData['payload']['character_id']);
+            //console.log(playerData);
           }
         })
       
@@ -136,6 +157,15 @@ loginsConnection.onmessage = e => {
     //console.log(eventData['payload']['event_name']);
   }
 }
+
+app.get("/", (request, response) => {
+  console.log(Date.now() + " Ping Received");
+  response.sendStatus(200);
+});
+
+app.listen(process.env.PORT); setInterval(() => {
+  http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`); 
+}, 28000)
 
 // we've started you off with Express, 
 // but feel free to use whatever libs or frameworks you'd like through `package.json`.
@@ -149,6 +179,6 @@ app.get('/', function(request, response) {
 });
 
 // listen for requests :)
-const listener = app.listen(process.env.PORT, function() {
-  console.log('Your app is listening on port ' + listener.address().port);
-});
+//const listener = app.listen(process.env.PORT, function() {
+  //console.log('Your app is listening on port ' + listener.address().port);
+//});
