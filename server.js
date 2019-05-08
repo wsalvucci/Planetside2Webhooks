@@ -11,10 +11,10 @@ const http = require('http');
 
 
 var sqlConnection = mysql.createConnection({
-  host: process.env.DATABASE_HOST,
-  user: process.env.DATABASE_USER,
-  password: process.env.DATABASE_PASSWORD,
-  database: process.env.DATABASE_DB
+  host: '127.0.0.1',
+  user: 'root',
+  password: 'test',
+  database: 'sys'
 });
 
 sqlConnection.connect(function(err) {
@@ -38,14 +38,15 @@ setInterval(() => {
   sqlConnection.query(sql, function(err, result) { if (err) throw err })
 }, 1000)
 
-const url = 'wss://push.planetside2.com/streaming?environment=ps2&service-id=s:' + process.env.WEBHOOK_ID;
+const url = 'wss://push.planetside2.com/streaming?environment=ps2&service-id=s:sealith';
 
 const vehicleDestroyConnection = new WebSocket(url);
 vehicleDestroyConnection.onopen = () => {
   vehicleDestroyConnection.send('{"service":"event","action":"subscribe","worlds":["1","10","13","17","25","40"],"eventNames":["VehicleDestroy"]}');
 }
 vehicleDestroyConnection.onerror = error => {
-  console.log('WebSocket error: ${error}');
+  console.log('WebSocket error: ${error}' + error);
+  console.log(error);
 }
 vehicleDestroyConnection.onmessage = e => {
   var eventData = JSON.parse(e.data);

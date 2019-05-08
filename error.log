@@ -1,0 +1,494 @@
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428010618040516369' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428746250867843121' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '8255971480325271649' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428011263296008513' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428533594976492337' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428690458389040721' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428345446431612673' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428144714688900001' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428016459718880417' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428678494765191665' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428551667106985761' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428864149644193345' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428559248112479441' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428863393455204625' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428465397119213777' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428864149644142753' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428864149643837985' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428297992008404769' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '5428851341660781297' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:201:29)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
