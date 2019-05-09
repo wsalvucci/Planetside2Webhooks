@@ -15,12 +15,14 @@ sqlConnection.connect(function(err) {
 })
 
 var sql = 'select xp_id from xp_info where ram_kill = 1;';
-var insertSql = 'alter ram_kill count ';
+var insertSql = 'alter ram_kill_count ';
 sqlConnection.query(sql, function (err, result) {
 	if (err) throw err;
-	result[0].forEach(function(element) {
+	console.log(result);
+	result.forEach(function(element) {
 		insertSql = insertSql + ' add column xp_id_' + element['xp_id'] + ' INT NOT NULL DEFAULT 0, '
 	})
+	console.log(insertSql);
 })
 
 console.log(insertSql);
