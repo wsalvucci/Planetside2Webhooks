@@ -221,11 +221,9 @@ loginsConnection.onmessage = e => {
                   'percent_to_next_rank = ' + char['battle_rank']['percent_to_next']  + ', ' +
                   'profile_id = ' + char['profile_id'] + ', ' +
                   'daily_ribbon_count = ' + char['daily_ribbon']['count'] + ', ' +
-                  'prestige_level = ' + char['prestige_level'] +
+                  'prestige_level = ' + char['prestige_level'] + ', ' +
+				  'online = 1 '
                   ' WHERE player_id = ' + char['character_id'];
-              sqlConnection.query(returnPlayerSql, function(err, result) {if (err) throw err})
-                  var sql2 = 'update player set online = 1 where player_id = ' + eventData['payload']['character_id'];
-                  sqlConnection.query(sql2, function(err2, result2) {if (err2) throw err2});
               //console.log(returnPlayerSql);
             }
           } else {
