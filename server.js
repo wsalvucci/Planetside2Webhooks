@@ -97,6 +97,7 @@ logoutsConnection.onerror = error => {
 logoutsConnection.onmessage = e => {
   var eventData = JSON.parse(e.data);
   if(eventData['payload'] != undefined) {
+    console.log(eventData['payload']['character_id'] + ' has logged out');
     var sql = 'update player set online = 0 where player_id = ' + eventData['payload']['character_id'];
     sqlConnection.query(sql, function(err, result) {if (err) throw err});
     sql = 'select * from player where player_id = ' + eventData['payload']['character_id'];
@@ -140,7 +141,7 @@ loginsConnection.onerror = error => {
 loginsConnection.onmessage = e => {
   var eventData = JSON.parse(e.data);
   if(eventData['payload'] != undefined) {
-    
+    console.log(eventData['payload']['character_id'] + ' has logged in');
     var sql = 'SELECT * FROM player WHERE player_id=' + eventData['payload']['character_id'];
     sqlConnection.query(sql, function(err, result) {
       if (err) throw err
@@ -285,7 +286,7 @@ setInterval(() => {
             SolTech = element.players;
             break;
         }
-        console.log(element.world_id);
+        //console.log(element.world_id);
       });
       var sql2 = 'insert into 15min_player_count (15min_timestamp, world_1, world_10, world_13, world_17, world_25, world_40)' +
           'values(' + Math.floor(Date.now() / 1000) +', ' + Connery + ', ' + Miller + ', ' + Cobalt + ', ' + Emerald + ', ' + Briggs + ', ' + SolTech + ')'
@@ -294,7 +295,7 @@ setInterval(() => {
     })
     }
   })
-}, 3000)
+}, 1000)
 
 app.get("/", (request, response) => {
   //console.log(Date.now() + " Ping Received");
