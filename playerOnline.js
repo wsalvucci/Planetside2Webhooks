@@ -25,19 +25,34 @@ function getCurrentDayTimestamp() {
 }
 
 function isPlayerLogged(id) {
-	var sql = 'select player_id from player_online where player_id = "' + id '"';
+	var sql = 'select player_id from player_online where player_id = "' + id + '"';
 	sqlConnection.query(sql, function(err, result) {
 		if (err) throw err;
-		console.log(result.length);
+		if (result.length == 0)
+			return false;
+		else
+			return true;
 	})
 }
 
-function characterLoggedOut(id) {
-	
+function characterLoggedOut(id,world_id) {
+	if (isPlayerLogged(id)) {
+		var sql = 'update player_online set online = 0 where player_id = "' + id + '"';
+	} else {
+		var sql = 'insert into player_online (player_id,world_id,online) values("' + id + '",' + world_id + ',0)';
+	}
+	console.log(sql);
+	sqlConnection.query(sql, function(err, result) {if (err) throw err})
 }
 
-function characterLoggedIn(id) {
-	
+function characterLoggedIn(id,world_id) {
+	if (isPlayerLogged(id)) {
+		var sql = 'update player_online set online = 1 where player_id = "' + id + '"';
+	} else {
+		var sql = 'insert into player_online (player_id,world_id,online) values("' + id + '",' + world_id + ',1)';
+	}
+	console.log(sql);
+	sqlConnection.query(sql, function(err, result) {if (err) throw err});
 }
 
 const characterLog = new WebSocket(url);
@@ -52,9 +67,10 @@ characterLog.onmessage = e => {
 	var eventData = JSON.parse(e.data);
 	if (eventData['payload'] != undefined) {
 		var id = eventData['payload']['character_id'];
+		var world_id = eventData['payload']['world_id'];
 		if (eventData['payload']['event_name'] == 'PlayerLogin')
-			characterLoggedIn(id);
+			characterLoggedIn(id, world_id);
 		else if (eventData['payload']['event_name'] == 'PlayerLogout')
-			characterLoggedOut(id);
+			characterLoggedOut(id, world_id);
 	}
 }
