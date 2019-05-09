@@ -492,3 +492,228 @@ Error: ER_DUP_ENTRY: Duplicate entry '5428851341660781297' for key 'PRIMARY'
     at emitOne (events.js:116:13)
     at Request.emit (events.js:211:7)
     at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+undefined:1
+
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+undefined:1
+undefined
+^
+
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at Socket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+undefined:1
+undefined
+^
+
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at Socket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+undefined:1
+undefined
+^
+
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at Socket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+undefined:1
+undefined
+^
+
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at Socket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+undefined:1
+
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+undefined:1
+
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+undefined:1
+
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+undefined:1
+
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+undefined:1
+
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at Request.self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:313:30)
+undefined:1
+undefined
+^
+
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at Socket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+undefined:1
+undefined
+^
+
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at Socket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+undefined:1
+undefined
+^
+
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at Socket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+undefined:1
+undefined
+^
+
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at Socket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+undefined:1
+undefined
+^
+
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/ubuntu/Planetside2Webhooks/server.js:148:33)
+    at self.callback (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (/home/ubuntu/Planetside2Webhooks/node_modules/request/request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at Socket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
