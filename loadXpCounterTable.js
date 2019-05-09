@@ -14,8 +14,8 @@ sqlConnection.connect(function(err) {
   console.log('Connected to database');
 })
 
-var sql = 'select xp_id from xp_info where ram_kill = 1;';
-var insertSql = 'alter ram_kill_count ';
+var sql = 'select xp_id from xp_info where spot_kill = 1;';
+var insertSql = 'alter table spot_kill_count ';
 sqlConnection.query(sql, function (err, result) {
 	if (err) throw err;
 	console.log(result);
