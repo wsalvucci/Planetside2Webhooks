@@ -26,6 +26,7 @@ function getCurrentDayTimestamp() {
 
 //DEATH EVENTS
 function recordDeathEvent(killer_id,victim_id,killer_faction_id,victim_faction_id,vehicle,headshot,teamkill) {
+	console.log("Death");
 	var vehicleInc = vehicle ? 1 : 0;
 	var headshotInc = headshot ? 1 : 0;
 	var teamkillInc = teamkill && !(killer_faction_id == 4 && victim_faction_id == 4) ? 1 : 0;
@@ -40,6 +41,7 @@ function recordDeathEvent(killer_id,victim_id,killer_faction_id,victim_faction_i
 	var currentDay = getCurrentDayTimestamp();
 	var sql = 'select max(day_timestamp) as recent_day from death_tracker';
 	sqlConnection.query(sql, function(err, result) {
+		console.log(currentDay + ' - ' + result[0].recent_day);
 		if (currentDay > result[0].recent_day) {
 			var sql2 = 'insert into death_tracker (day_timestamp,deaths,headshots,teamkills,vehicle_deaths,nc_kills,tr_kills,vs_kills,nso_kills,nc_deaths,tr_deaths,vs_deaths,nso_deaths) values(' + currentDay + ',1,' + headshotInc + ',' + teamkillInc + 
 			',' + vehicleInc + ',' + ncKillInc + ',' + trKillInc + ',' + vsKillInc + ',' + nsoKillInc + ',' + ncDeathInc + ',' + trDeathInc + ',' + vsDeathInc + ',' + nsoDeathInc + ')';
@@ -74,7 +76,7 @@ function deathEvent(killer_id,victim_id,vehicle,headshot) {
 		if (result.length > 0) {
 			killer_faction_id = result[0]['faction_id'];
 		} else {
-			console.log(killer_id + " not found");
+//			console.log(killer_id + " not found");
 		}
 		var sql2 = 'select faction_id from player where player_id = ' + victim_id;
 		sqlConnection.query(sql2, function(err2, result2) {
@@ -100,36 +102,36 @@ function characterLoggedOut(id,world_id) {
 	console.log(sql);
 	sqlConnection.query(sql, function(err, result) {
 		if (err) throw err;
-		console.log(result);
-		console.log(result.length);
+//		console.log(result);
+//		console.log(result.length);
 		if (result.length != 0)
 			var sql2 = 'update player_online set online = 0 where player_id = "' + id + '"';
 		else
 			var sql2 = 'insert into player_online (player_id,world_id,online) values("' + id + '",' + world_id + ',0)';
-		console.log(sql2);
+//		console.log(sql2);
 		sqlConnection.query(sql2, function(err2, result2) {if (err2) throw err2})
 	})
 }
 
 function characterLoggedIn(id,world_id) {
 	var sql = 'select player_id from player_online where player_id = "' + id + '"';
-	console.log(sql);
+//	console.log(sql);
 	sqlConnection.query(sql, function(err, result) {
 		if (err) throw err;
-		console.log(result);
-		console.log(result.length);
+//		console.log(result);
+//		console.log(result.length);
 		if (result.length != 0)
 			var sql2 = 'update player_online set online = 1 where player_id = "' + id + '"';
 		else
 			var sql2 = 'insert into player_online (player_id,world_id,online) values("' + id + '",' + world_id + ',1)';
-		console.log(sql2);
+//		console.log(sql2);
 		sqlConnection.query(sql2, function(err2, result2) {if (err2) throw err2})
 	})
 }
 
 //RAM KILL EVENTS
 function ramKillEvent(id) {
-	console.log("ID spot: " + id);
+//	console.log("ID spot: " + id);
 	var currentDay = getCurrentDayTimestamp();
 	var sql = 'select max(day_timestamp) as recent_day from ram_kill_count';
 	sqlConnection.query(sql, function(err, result) {
@@ -139,14 +141,14 @@ function ramKillEvent(id) {
 		} else {
 			var sql2 = 'update ram_kill_count set xp_id_' + id + ' = xp_id_' + id + ' + 1, total = total + 1 where day_timestamp = ' + currentDay;
 		}
-		console.log(sql2);
+//		console.log(sql2);
 		sqlConnection.query(sql2, function(err2, result2) {if (err2) throw err2});
 	})
 }
 
 //REPAIR EVENTS
 function repairEvent(id) {
-	console.log("ID repair: " + id);
+//	console.log("ID repair: " + id);
 	var currentDay = getCurrentDayTimestamp();
 	var sql = 'select max(day_timestamp) as recent_day from repair_count';
 	sqlConnection.query(sql, function(err, result) {
@@ -156,14 +158,14 @@ function repairEvent(id) {
 		} else {
 			var sql2 = 'update repair_count set xp_id_' + id + ' = xp_id_' + id + ' + 1, total = total + 1 where day_timestamp = ' + currentDay;
 		}
-		console.log(sql2);
+//		console.log(sql2);
 		sqlConnection.query(sql2, function(err2, result2) {if (err2) throw err2});
 	})
 }
 
 //RESUPPLY EVENTS
 function resupplyEvent(id) {
-	console.log("ID revive: " + id);
+//	console.log("ID revive: " + id);
 	var currentDay = getCurrentDayTimestamp();
 	var sql = 'select max(day_timestamp) as recent_day from resupply_count';
 	sqlConnection.query(sql, function(err, result) {
@@ -173,14 +175,14 @@ function resupplyEvent(id) {
 		} else {
 			var sql2 = 'update resupply_count set xp_id_' + id + ' = xp_id_' + id + ' + 1, total = total + 1 where day_timestamp = ' + currentDay;
 		}
-		console.log(sql2);
+//		console.log(sql2);
 		sqlConnection.query(sql2, function(err2, result2) {if (err2) throw err2});
 	})
 }
 
 //REVIVE EVENTS
 function reviveEvent(id) {
-	console.log("ID revive: " + id);
+//	console.log("ID revive: " + id);
 	var currentDay = getCurrentDayTimestamp();
 	var sql = 'select max(day_timestamp) as recent_day from revive_count';
 	sqlConnection.query(sql, function(err, result) {
@@ -190,14 +192,14 @@ function reviveEvent(id) {
 		} else {
 			var sql2 = 'update revive_count set xp_id_' + id + ' = xp_id_' + id + ' + 1, total = total + 1 where day_timestamp = ' + currentDay;
 		}
-		console.log(sql2);
+//		console.log(sql2);
 		sqlConnection.query(sql2, function(err2, result2) {if (err2) throw err2});
 	})
 }
 
 //SPOT KILL EVENTS
 function spotKillEvent(id) {
-	console.log("ID spot: " + id);
+//	console.log("ID spot: " + id);
 	var currentDay = getCurrentDayTimestamp();
 	var sql = 'select max(day_timestamp) as recent_day from spot_kill_count';
 	sqlConnection.query(sql, function(err, result) {
@@ -207,7 +209,7 @@ function spotKillEvent(id) {
 		} else {
 			var sql2 = 'update spot_kill_count set xp_id_' + id + ' = xp_id_' + id + ' + 1, total = total + 1 where day_timestamp = ' + currentDay;
 		}
-		console.log(sql2);
+//		console.log(sql2);
 		sqlConnection.query(sql2, function(err2, result2) {if (err2) throw err2});
 	})
 }
@@ -257,7 +259,5 @@ websocket.onmessage = e => {
 				})
 				break;
 		}
-		//console.log("Player killed");
-		
 	}
 }
