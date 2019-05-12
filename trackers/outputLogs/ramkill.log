@@ -1,0 +1,39 @@
+Connected to database
+ID spot: 80
+insert into ram_kill_count (day_timestamp, xp_id_80,total) values (1557619200,1,1)
+ID spot: 82
+update ram_kill_count set xp_id_82 = xp_id_82 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 82
+update ram_kill_count set xp_id_82 = xp_id_82 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 80
+update ram_kill_count set xp_id_80 = xp_id_80 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 76
+update ram_kill_count set xp_id_76 = xp_id_76 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 80
+update ram_kill_count set xp_id_80 = xp_id_80 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 83
+update ram_kill_count set xp_id_83 = xp_id_83 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 83
+update ram_kill_count set xp_id_83 = xp_id_83 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 80
+update ram_kill_count set xp_id_80 = xp_id_80 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 82
+update ram_kill_count set xp_id_82 = xp_id_82 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 83
+update ram_kill_count set xp_id_83 = xp_id_83 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 84
+update ram_kill_count set xp_id_84 = xp_id_84 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 73
+update ram_kill_count set xp_id_73 = xp_id_73 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 502
+update ram_kill_count set xp_id_502 = xp_id_502 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 83
+update ram_kill_count set xp_id_83 = xp_id_83 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 83
+update ram_kill_count set xp_id_83 = xp_id_83 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 300
+update ram_kill_count set xp_id_300 = xp_id_300 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 603
+update ram_kill_count set xp_id_603 = xp_id_603 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 83
+update ram_kill_count set xp_id_83 = xp_id_83 + 1, total = total + 1 where day_timestamp = 1557619200

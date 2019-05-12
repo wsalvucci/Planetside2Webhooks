@@ -1,0 +1,2843 @@
+Connected to database
+ID revive: 7
+insert into revive_count (day_timestamp, xp_id_7,total) values (1557619200,1,1)
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 53
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 53
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 53
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 53
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 53
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 53
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+ID revive: 7
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 53
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 53
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 53
+ID revive: 7
+update revive_count set xp_id_53 = xp_id_53 + 1, total = total + 1 where day_timestamp = 1557619200
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200
+ID revive: 7
+update revive_count set xp_id_7 = xp_id_7 + 1, total = total + 1 where day_timestamp = 1557619200

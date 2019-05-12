@@ -1,0 +1,853 @@
+Connected to database
+ID spot: 36
+insert into spot_kill_count (day_timestamp, xp_id_36,total) values (1557619200,1,1)
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 262
+update spot_kill_count set xp_id_262 = xp_id_262 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 267
+update spot_kill_count set xp_id_267 = xp_id_267 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 265
+update spot_kill_count set xp_id_265 = xp_id_265 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 264
+update spot_kill_count set xp_id_264 = xp_id_264 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 268
+update spot_kill_count set xp_id_268 = xp_id_268 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 269
+update spot_kill_count set xp_id_269 = xp_id_269 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 256
+update spot_kill_count set xp_id_256 = xp_id_256 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 252
+update spot_kill_count set xp_id_252 = xp_id_252 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 585
+update spot_kill_count set xp_id_585 = xp_id_585 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 266
+update spot_kill_count set xp_id_266 = xp_id_266 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 254
+update spot_kill_count set xp_id_254 = xp_id_254 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 256
+update spot_kill_count set xp_id_256 = xp_id_256 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 252
+update spot_kill_count set xp_id_252 = xp_id_252 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 267
+update spot_kill_count set xp_id_267 = xp_id_267 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 268
+update spot_kill_count set xp_id_268 = xp_id_268 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 244
+update spot_kill_count set xp_id_244 = xp_id_244 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 252
+update spot_kill_count set xp_id_252 = xp_id_252 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 268
+update spot_kill_count set xp_id_268 = xp_id_268 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 268
+update spot_kill_count set xp_id_268 = xp_id_268 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 506
+update spot_kill_count set xp_id_506 = xp_id_506 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 250
+update spot_kill_count set xp_id_250 = xp_id_250 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 263
+update spot_kill_count set xp_id_263 = xp_id_263 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 243
+update spot_kill_count set xp_id_243 = xp_id_243 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 252
+update spot_kill_count set xp_id_252 = xp_id_252 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 268
+update spot_kill_count set xp_id_268 = xp_id_268 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 268
+update spot_kill_count set xp_id_268 = xp_id_268 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 263
+update spot_kill_count set xp_id_263 = xp_id_263 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 307
+update spot_kill_count set xp_id_307 = xp_id_307 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 307
+update spot_kill_count set xp_id_307 = xp_id_307 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 250
+update spot_kill_count set xp_id_250 = xp_id_250 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 268
+update spot_kill_count set xp_id_268 = xp_id_268 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 265
+update spot_kill_count set xp_id_265 = xp_id_265 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 250
+update spot_kill_count set xp_id_250 = xp_id_250 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 243
+update spot_kill_count set xp_id_243 = xp_id_243 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 306
+update spot_kill_count set xp_id_306 = xp_id_306 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 264
+update spot_kill_count set xp_id_264 = xp_id_264 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 262
+update spot_kill_count set xp_id_262 = xp_id_262 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 253
+update spot_kill_count set xp_id_253 = xp_id_253 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 250
+update spot_kill_count set xp_id_250 = xp_id_250 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 262
+update spot_kill_count set xp_id_262 = xp_id_262 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 248
+update spot_kill_count set xp_id_248 = xp_id_248 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 254
+update spot_kill_count set xp_id_254 = xp_id_254 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 260
+update spot_kill_count set xp_id_260 = xp_id_260 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 267
+update spot_kill_count set xp_id_267 = xp_id_267 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 262
+update spot_kill_count set xp_id_262 = xp_id_262 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 243
+update spot_kill_count set xp_id_243 = xp_id_243 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 248
+update spot_kill_count set xp_id_248 = xp_id_248 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 262
+update spot_kill_count set xp_id_262 = xp_id_262 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 249
+update spot_kill_count set xp_id_249 = xp_id_249 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 258
+update spot_kill_count set xp_id_258 = xp_id_258 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 268
+update spot_kill_count set xp_id_268 = xp_id_268 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 585
+update spot_kill_count set xp_id_585 = xp_id_585 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 267
+update spot_kill_count set xp_id_267 = xp_id_267 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 246
+update spot_kill_count set xp_id_246 = xp_id_246 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 267
+update spot_kill_count set xp_id_267 = xp_id_267 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 248
+update spot_kill_count set xp_id_248 = xp_id_248 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 264
+update spot_kill_count set xp_id_264 = xp_id_264 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 243
+update spot_kill_count set xp_id_243 = xp_id_243 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 261
+update spot_kill_count set xp_id_261 = xp_id_261 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 248
+update spot_kill_count set xp_id_248 = xp_id_248 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 267
+update spot_kill_count set xp_id_267 = xp_id_267 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 262
+update spot_kill_count set xp_id_262 = xp_id_262 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 250
+update spot_kill_count set xp_id_250 = xp_id_250 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 247
+update spot_kill_count set xp_id_247 = xp_id_247 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 254
+update spot_kill_count set xp_id_254 = xp_id_254 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 254
+update spot_kill_count set xp_id_254 = xp_id_254 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 306
+update spot_kill_count set xp_id_306 = xp_id_306 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 264
+update spot_kill_count set xp_id_264 = xp_id_264 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 244
+update spot_kill_count set xp_id_244 = xp_id_244 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 250
+update spot_kill_count set xp_id_250 = xp_id_250 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 262
+update spot_kill_count set xp_id_262 = xp_id_262 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 262
+update spot_kill_count set xp_id_262 = xp_id_262 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 268
+update spot_kill_count set xp_id_268 = xp_id_268 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 306
+update spot_kill_count set xp_id_306 = xp_id_306 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 248
+update spot_kill_count set xp_id_248 = xp_id_248 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 258
+update spot_kill_count set xp_id_258 = xp_id_258 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 262
+update spot_kill_count set xp_id_262 = xp_id_262 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 268
+update spot_kill_count set xp_id_268 = xp_id_268 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 507
+update spot_kill_count set xp_id_507 = xp_id_507 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 506
+update spot_kill_count set xp_id_506 = xp_id_506 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 262
+update spot_kill_count set xp_id_262 = xp_id_262 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 242
+update spot_kill_count set xp_id_242 = xp_id_242 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 266
+update spot_kill_count set xp_id_266 = xp_id_266 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 255
+update spot_kill_count set xp_id_255 = xp_id_255 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 248
+update spot_kill_count set xp_id_248 = xp_id_248 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 264
+update spot_kill_count set xp_id_264 = xp_id_264 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 506
+update spot_kill_count set xp_id_506 = xp_id_506 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 242
+update spot_kill_count set xp_id_242 = xp_id_242 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 251
+update spot_kill_count set xp_id_251 = xp_id_251 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 54
+update spot_kill_count set xp_id_54 = xp_id_54 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200
+ID spot: 36
+update spot_kill_count set xp_id_36 = xp_id_36 + 1, total = total + 1 where day_timestamp = 1557619200

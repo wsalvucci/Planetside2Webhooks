@@ -37,7 +37,7 @@ characterLog.onmessage = e => {
 	if (eventData['payload'] != undefined) {
 		var newId = eventData['payload']['new_faction_id'];
 		var oldId = eventData['payload']['old_faction_id'];
-		if (newId == oldId) return;
+		if (newId == oldId || oldId == 0 || newId == 0) return;
 		var sql = 'select max(day_timestamp) as recent_day from facility_captures';
 		sqlConnection.query(sql, function(err, result) {
 			if (err) throw err;
@@ -46,9 +46,10 @@ characterLog.onmessage = e => {
 			if (currentDay > recentDay) {
 				var sql2 = 'insert into facility_captures (day_timestamp, ' + newId + '_captures, ' + oldId + '_losses,total_captures) values(' + currentDay + ',1,1,1)';
 			} else {
-				var sql2 = 'update facility_captures set ' + newId + '_captures = ' + newId + '_captures + 1, ' + oldId + '_losses = ' + oldId + '_losses + 1, total_captures = total_captures + 1';
+				var sql2 = 'update facility_captures set ' + newId + '_captures = ' + newId + '_captures + 1, ' + oldId + '_losses = ' + oldId + '_losses + 1, total_captures = total_captures + 1 where day_timestamp = ' + currentDay;
 			}
 			console.log(sql2);
+			sqlConnection.query(sql2, function(err2, result2) {if (err2) throw err2})
 		})
 	}
 }

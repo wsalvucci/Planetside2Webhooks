@@ -55,7 +55,8 @@ function recordDeathEvent(killer_id,victim_id,killer_faction_id,victim_faction_i
 			', nc_deaths = nc_deaths + ' + ncDeathInc + 
 			', tr_deaths = tr_deaths + ' + trDeathInc + 
 			', vs_deaths = vs_deaths + ' + vsDeathInc + 
-			', nso_deaths = nso_deaths + ' + nsoDeathInc;
+			', nso_deaths = nso_deaths + ' + nsoDeathInc + 
+			' where day_timestamp = ' + currentDay;
 		}
 		console.log(sql2);
 		sqlConnection.query(sql2, function(err2, result2) {if (err2) throw err2});

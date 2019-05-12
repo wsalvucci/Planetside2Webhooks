@@ -1,0 +1,26 @@
+/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error: ER_DUP_ENTRY: Duplicate entry '1557619200' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Protocol._enqueue (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:201:25)
+    at Query.<anonymous> (/home/ubuntu/Planetside2Webhooks/trackers/deathTracker.js:62:17)
+    at Query.<anonymous> (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:525:10)
+    at Query._callback (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/Connection.js:491:16)
+    at Query.Sequence.end (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Query._handleFinalResultPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:139:8)
+    at Query.EofPacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/sequences/Query.js:123:8)
+    at Protocol._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Planetside2Webhooks/node_modules/mysql/lib/protocol/Parser.js:433:10)
