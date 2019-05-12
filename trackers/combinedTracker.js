@@ -215,7 +215,7 @@ function spotKillEvent(id) {
 //WEBHOOK CONNECTION
 const websocket = new WebSocket(url);
 websocket.onopen = () => {
-	gainExperienceConnection.send('{"service":"event","action":"subscribe","characters":["all"],"eventNames":["Death"],"worlds":["1","10","13","17","25","40"],"logicalAndCharactersWithWorlds":true}');
+	websocket.send('{"service":"event","action":"subscribe","characters":["all"],"eventNames":["Death"],"worlds":["1","10","13","17","25","40"],"logicalAndCharactersWithWorlds":true}');
 }
 websocket.onerror = error => {
   console.log('WebSocket error: ${error}' + error);
@@ -247,13 +247,10 @@ websocket.onmessage = e => {
 					if (result[0] != undefined) {
 					if (result[0].repair == 1)
 						repairEvent(xp_id);
-					}
 					if (result[0].resupply == 1)
 						resupplyEvent(xp_id);
-					}
 					if (result[0].revive == 1)
 						reviveEvent(xp_id);
-					}
 					if (result[0].spot_kill == 1)
 						spotKillEvent(xp_id);
 					}
